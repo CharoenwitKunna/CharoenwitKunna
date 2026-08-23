@@ -35,8 +35,10 @@ Builder of browser games, automation bots, and networking tools. I ship small, f
 
 ## GitHub Stats
 
-<img src="stats-card.svg" height="150" alt="GitHub stats"/>
-<img src="top-langs.svg" height="150" alt="Top languages"/>
+<p align="left">
+  <img src="stats-card.svg" width="48%" alt="GitHub stats"/>&nbsp;
+  <img src="top-langs.svg" width="48%" alt="Top languages"/>
+</p>
 
 ---
 
