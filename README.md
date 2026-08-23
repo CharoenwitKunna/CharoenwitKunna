@@ -35,8 +35,8 @@ Builder of browser games, automation bots, and networking tools. I ship small, f
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CharoenwitKunna&show_icons=true&hide_border=true" height="150" alt="GitHub stats"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CharoenwitKunna&layout=compact&hide_border=true" height="150" alt="Top languages"/>
+<img src="stats-card.svg" height="150" alt="GitHub stats"/>
+<img src="top-langs.svg" height="150" alt="Top languages"/>
 
 ---
 
