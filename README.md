@@ -67,7 +67,7 @@
 
 ## GitHub activity
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CharoenwitKunna&theme=github-compact&hide_border=true&area=true)
+![GitHub activity summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CharoenwitKunna&theme=github_dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharoenwitKunna&show_icons=true&hide_border=true&theme=github_dark&rank=stars,commits,prs,issues)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharoenwitKunna&layout=compact&hide_border=true&theme=github_dark)
