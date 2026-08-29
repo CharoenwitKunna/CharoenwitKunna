@@ -2,7 +2,7 @@
 
 # Charoenwit Kunna
 
-### Independent developer building playful software with practical edges
+### Independent developer making games, tools, and experiments
 
 [![Profile views](https://komarev.com/ghpvc/?username=CharoenwitKunna&style=flat-square&color=7c3aed)](https://github.com/CharoenwitKunna)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charoenwitkunna)
@@ -10,13 +10,13 @@
 
 </div>
 
-> I turn ideas into small, fast things people can use — from browser games and automation tools to game backends and networking experiments.
+> I make browser games, automation tools, game backends, and networking experiments. I like projects that stay small, run fast, and are fun to use.
 
 ## What I build
 
 | 🎮 Play | ⚙️ Automate | 🌐 Connect |
 |:---:|:---:|:---:|
-| Browser games, prototypes & experiments | Bots, APIs, scrapers & self-hosted tooling | Multiplayer systems, mesh services & server tools |
+| Browser games and prototypes | Bots, APIs, scrapers, and self-hosted tools | Multiplayer systems, mesh services, and server tools |
 
 ## Featured projects
 
@@ -24,38 +24,38 @@
   <tr>
     <td width="50%">
       <h3>🪐 <a href="https://github.com/CharoenwitKunna/Sticky-Orbit">Sticky-Orbit</a></h3>
-      <p>A physics-based browser game with a global leaderboard. Simple idea, surprisingly hard to master.</p>
+      <p>A physics-based browser game with a global leaderboard. Easy to start, harder to master.</p>
     </td>
     <td width="50%">
       <h3>🧩 <a href="https://github.com/CharoenwitKunna/infinite-maze-td">Infinite Maze TD</a></h3>
-      <p>An endless maze tower-defense game that keeps generating new problems to solve.</p>
+      <p>An endless maze tower-defense game with a new path to defend each run.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🎯 <a href="https://github.com/CharoenwitKunna/multiplayer_fps_template">Multiplayer FPS Template</a></h3>
-      <p>A browser multiplayer starter for experimenting with real-time gameplay.</p>
+      <p>A browser multiplayer starter for testing real-time gameplay.</p>
     </td>
     <td width="50%">
       <h3>🤖 <a href="https://github.com/CharoenwitKunna/EconomyBot">EconomyBot</a></h3>
-      <p>A 24/7 game economy bot designed for reliable deployment and live communities.</p>
+      <p>A 24/7 game economy bot built for deployment on Railway and live communities.</p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><strong>More projects</strong> — click to explore</summary>
+<summary><strong>More projects</strong> (click to open)</summary>
 <br>
 
-- 🧠 [flashmaths](https://github.com/CharoenwitKunna/flashmaths) — speed-focused math practice
-- ✍️ [typeflow](https://github.com/CharoenwitKunna/typeflow) — a typing flow app in TypeScript
-- 📺 [youtube_title_editer](https://github.com/CharoenwitKunna/youtube_title_editer) — automatic YouTube title updates
-- 🛡️ [ai-act-starter](https://github.com/CharoenwitKunna/ai-act-starter) — an EU AI Act compliance starter
-- 🛰️ [DrednotServer_Econ](https://github.com/CharoenwitKunna/DrednotServer_Econ) — an economy layer for game servers
+- 🧠 [flashmaths](https://github.com/CharoenwitKunna/flashmaths): speed-focused math practice
+- ✍️ [typeflow](https://github.com/CharoenwitKunna/typeflow): a typing flow app in TypeScript
+- 📺 [youtube_title_editer](https://github.com/CharoenwitKunna/youtube_title_editer): automatic YouTube title updates
+- 🛡️ [ai-act-starter](https://github.com/CharoenwitKunna/ai-act-starter): an EU AI Act compliance starter
+- 🛰️ [DrednotServer_Econ](https://github.com/CharoenwitKunna/DrednotServer_Econ): an economy layer for game servers
 
 </details>
 
-## Tools I enjoy
+## Tools I use
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -73,21 +73,21 @@
 </p>
 
 <details>
-<summary><strong>Currently exploring</strong></summary>
+<summary><strong>What I’m working on</strong></summary>
 <br>
 
-- Building game prototypes that are quick to learn and fun to replay
-- Making small services that can run reliably without a huge stack
-- Finding the useful boundary between automation and delightful UX
+- Game prototypes that are quick to learn and fun to replay
+- Small services that run without a huge stack
+- Better ways to make automation feel natural to use
 
 </details>
 
-## Let’s build something
+## Get in touch
 
-Have a browser game idea, an automation problem, or an interesting systems challenge? [Open an issue](https://github.com/CharoenwitKunna/CharoenwitKunna/issues) or [connect on LinkedIn](https://www.linkedin.com/in/charoenwitkunna).
+Have a browser game idea, an automation problem, or a systems challenge? [Open an issue](https://github.com/CharoenwitKunna/CharoenwitKunna/issues) or [connect on LinkedIn](https://www.linkedin.com/in/charoenwitkunna).
 
 <div align="center">
 
-*Still shipping, still experimenting, still learning.* ✨
+*I’m usually building something, testing something, or learning how to make it better.* ✨
 
 </div>
