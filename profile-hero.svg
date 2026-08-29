@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" role="img" aria-labelledby="title desc">
+  <title id="title">Games, tools, and experiments</title>
+  <desc id="desc">A subtle animated banner for Charoenwit Kunna's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#24163b"/>
+      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="0.5" stop-color="#bc8cff"/>
+      <stop offset="1" stop-color="#f778ba"/>
+      <animate attributeName="x1" values="0;1;0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="120" rx="16" fill="url(#bg)" stroke="#30363d"/>
+  <circle cx="750" cy="28" r="3" fill="#58a6ff">
+    <animate attributeName="cy" values="28;18;28" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="810" cy="72" r="5" fill="#bc8cff" opacity="0.7">
+    <animate attributeName="r" values="5;8;5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M48 82 C180 35 280 108 410 63 S650 38 850 78" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 12">
+    <animate attributeName="stroke-dashoffset" from="0" to="-80" dur="4s" repeatCount="indefinite"/>
+  </path>
+  <text x="48" y="48" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24" font-weight="700">Games · tools · experiments</text>
+  <text x="48" y="70" fill="#8b949e" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14">Small projects, real systems, and a few things that are fun to play</text>
+</svg>

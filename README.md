@@ -10,7 +10,11 @@
 
 </div>
 
-> I build browser games, automation tools, game backends, and networking projects. Most of my work starts as a small experiment and grows from there.
+<p align="center">
+  <img src="profile-hero.svg" alt="Games, tools, and experiments" width="900" />
+</p>
+
+> Building snappy browser games, multiplayer experiments, and 24/7 automation tools that run quietly in the background.
 
 ## What I build
 
