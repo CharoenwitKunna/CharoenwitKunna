@@ -10,7 +10,7 @@
 
 </div>
 
-> I make browser games, automation tools, game backends, and networking experiments. I like projects that stay small, run fast, and are fun to use.
+> I build browser games, automation tools, game backends, and networking projects. Most of my work starts as a small experiment and grows from there.
 
 ## What I build
 
