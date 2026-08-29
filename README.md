@@ -10,11 +10,7 @@
 
 </div>
 
-<p align="center">
-  <img src="profile-hero.svg" alt="Games, tools, and experiments" width="900" />
-</p>
-
-> Building snappy browser games, multiplayer experiments, and 24/7 automation tools that run quietly in the background.
+> I build browser games, automation tools, game backends, and networking projects. Most of my work starts as a small experiment and grows from there.
 
 ## What I build
 
@@ -71,13 +67,13 @@
 
 ## GitHub activity
 
-<p align="center">
-  <img src="stats-card.svg" width="49%" alt="GitHub statistics" />
-  <img src="top-langs.svg" width="49%" alt="Most used languages" />
-</p>
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CharoenwitKunna&theme=github-compact&hide_border=true&area=true)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharoenwitKunna&show_icons=true&hide_border=true&theme=github_dark&rank=stars,commits,prs,issues)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharoenwitKunna&layout=compact&hide_border=true&theme=github_dark)
 
 <details>
-<summary><strong>What I’m working on</strong></summary>
+<summary><strong>What I'm working on</strong></summary>
 <br>
 
 - Game prototypes that are quick to learn and fun to replay
