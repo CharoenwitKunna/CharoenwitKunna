@@ -20,33 +20,25 @@
 
 ## Featured projects
 
+Two projects that best represent what I build: playful software people can use, and practical tools for AI-powered workflows.
+
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🪐 <a href="https://github.com/CharoenwitKunna/Sticky-Orbit">Sticky-Orbit</a></h3>
-      <p>A physics-based browser game with a <a href="https://www.crazygames.com/game/sticky-orbit">playable CrazyGames release</a> and global leaderboard.</p>
+      <p>A physics-based browser game built for quick play and replay.</p>
+      <p>
+        <a href="https://www.crazygames.com/game/sticky-orbit">▶ Play on CrazyGames</a><br>
+        <a href="https://github.com/CharoenwitKunna/StickyOrbitLeaderboard">🏆 View leaderboard</a>
+      </p>
     </td>
-    <td width="50%">
-      <h3>🧩 <a href="https://github.com/CharoenwitKunna/infinite-maze-td">Infinite Maze TD</a></h3>
-      <p>An endless maze tower-defense game with a new path to defend each run.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎯 <a href="https://github.com/CharoenwitKunna/multiplayer_fps_template">Multiplayer FPS Template</a></h3>
-      <p>A browser multiplayer starter for testing real-time gameplay.</p>
-    </td>
-    <td width="50%">
-      <h3>🤖 <a href="https://github.com/CharoenwitKunna/EconomyBot">EconomyBot</a></h3>
-      <p>A 24/7 game economy bot built for deployment on Railway and live communities.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>👻 <a href="https://github.com/CharoenwitKunna/Specter">Specter</a></h3>
-      <p>Ghost-cursor browser automation for AI agents, built with a Chrome extension and MCP server.</p>
+      <p>Ghost-cursor browser automation for AI agents, powered by a Chrome extension and MCP server.</p>
+      <p>
+        <a href="https://github.com/CharoenwitKunna/Specter">⚙ Explore the project</a>
+      </p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
