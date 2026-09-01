@@ -23,12 +23,12 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🪐 <a href="https://github.com/CharoenwitKunna/Sticky-Orbit">Sticky-Orbit</a></h3>
+      <p><strong>🪐 <a href="https://github.com/CharoenwitKunna/Sticky-Orbit">Sticky-Orbit</a></strong></p>
       <p>Physics-based browser game built for quick play and replay.</p>
       <a href="https://www.crazygames.com/game/sticky-orbit">▶ Play on CrazyGames</a>
     </td>
     <td width="50%" valign="top">
-      <h3>👻 <a href="https://github.com/CharoenwitKunna/Specter">Specter</a></h3>
+      <p><strong>👻 <a href="https://github.com/CharoenwitKunna/Specter">Specter</a></strong></p>
       <p>Ghost-cursor browser automation for AI agents, powered by a Chrome extension and MCP server.</p>
     </td>
   </tr>
