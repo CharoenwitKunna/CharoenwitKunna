@@ -24,7 +24,7 @@
   <tr>
     <td width="50%">
       <h3>🪐 <a href="https://github.com/CharoenwitKunna/Sticky-Orbit">Sticky-Orbit</a></h3>
-      <p>A physics-based browser game with a global leaderboard. Easy to start, harder to master.</p>
+      <p>A physics-based browser game with a <a href="https://www.crazygames.com/game/sticky-orbit">playable CrazyGames release</a> and global leaderboard.</p>
     </td>
     <td width="50%">
       <h3>🧩 <a href="https://github.com/CharoenwitKunna/infinite-maze-td">Infinite Maze TD</a></h3>
@@ -68,7 +68,6 @@
 ## GitHub activity
 
 ![GitHub activity summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CharoenwitKunna&theme=github_dark)
-
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CharoenwitKunna&theme=github_dark)
 ![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CharoenwitKunna&theme=github_dark)
 
