@@ -41,6 +41,13 @@
       <p>A 24/7 game economy bot built for deployment on Railway and live communities.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3>👻 <a href="https://github.com/CharoenwitKunna/Specter">Specter</a></h3>
+      <p>Ghost-cursor browser automation for AI agents, built with a Chrome extension and MCP server.</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 <details>
