@@ -22,25 +22,17 @@
 
 Two projects that best represent what I build: playful software people can use, and practical tools for AI-powered workflows.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🪐 <a href="https://github.com/CharoenwitKunna/Sticky-Orbit">Sticky-Orbit</a></h3>
-      <p>A physics-based browser game built for quick play and replay.</p>
-      <p>
-        <a href="https://www.crazygames.com/game/sticky-orbit">▶ Play on CrazyGames</a><br>
-        <a href="https://github.com/CharoenwitKunna/StickyOrbitLeaderboard">🏆 View leaderboard</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👻 <a href="https://github.com/CharoenwitKunna/Specter">Specter</a></h3>
-      <p>Ghost-cursor browser automation for AI agents, powered by a Chrome extension and MCP server.</p>
-      <p>
-        <a href="https://github.com/CharoenwitKunna/Specter">⚙ Explore the project</a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🪐 [Sticky-Orbit](https://github.com/CharoenwitKunna/Sticky-Orbit)
+
+A physics-based browser game built for quick play and replay.
+
+[▶ Play on CrazyGames](https://www.crazygames.com/game/sticky-orbit) · [View source](https://github.com/CharoenwitKunna/Sticky-Orbit)
+
+### 👻 [Specter](https://github.com/CharoenwitKunna/Specter)
+
+Ghost-cursor browser automation for AI agents, powered by a Chrome extension and MCP server.
+
+[View source](https://github.com/CharoenwitKunna/Specter)
 
 <details>
 <summary><strong>More projects</strong> (click to open)</summary>
