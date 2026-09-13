@@ -1,9 +1,5 @@
 # Charoenwit Kunna
 
-Software engineer building browser games, automation tooling, and networked systems.
-
-[CrazyGames](https://www.crazygames.com/game/sticky-orbit) · [LinkedIn](https://www.linkedin.com/in/charoenwitkunna)
-
 ---
 
 ### Selected Work
