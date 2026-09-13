@@ -1,5 +1,3 @@
-# Charoenwit Kunna
-
 ---
 
 ### Stuff I've made
