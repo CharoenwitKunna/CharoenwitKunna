@@ -1,83 +1,29 @@
-<div align="center">
-
 # Charoenwit Kunna
 
-### Independent developer making games, tools, and experiments
+Software engineer building browser games, automation tooling, and networked systems.
 
-[![Profile views](https://komarev.com/ghpvc/?username=CharoenwitKunna&style=flat-square&color=7c3aed)](https://github.com/CharoenwitKunna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charoenwitkunna)
-[![GitHub followers](https://img.shields.io/github/followers/CharoenwitKunna?style=flat-square&label=followers)](https://github.com/CharoenwitKunna?tab=followers)
+[CrazyGames](https://www.crazygames.com/game/sticky-orbit) · [LinkedIn](https://www.linkedin.com/in/charoenwitkunna)
 
-</div>
+---
 
-> I build browser games, automation tools, game backends, and networking projects. Most of my work starts as a small experiment and grows from there.
+### Selected Work
 
-## What I build
+- **[Sticky-Orbit](https://github.com/CharoenwitKunna/Sticky-Orbit)**  
+  Physics-based orbital arcade game built with Godot/JS. Published on [CrazyGames](https://www.crazygames.com/game/sticky-orbit).
 
-| 🎮 Play | ⚙️ Automate | 🌐 Connect |
-|:---:|:---:|:---:|
-| Browser games and prototypes | Bots, APIs, scrapers, and self-hosted tools | Multiplayer systems, mesh services, and server tools |
+- **[Specter](https://github.com/CharoenwitKunna/Specter)**  
+  Ghost-cursor browser automation engine for AI agents. Bridges a Chrome extension with an MCP server for human-like web interaction.
 
-## Featured projects
+- **[DrednotServer_Econ](https://github.com/CharoenwitKunna/DrednotServer_Econ)**  
+  State & economy management layer for custom game server instances.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong>🪐 <a href="https://github.com/CharoenwitKunna/Sticky-Orbit">Sticky-Orbit</a></strong></p>
-      <p>Physics-based browser game built for quick play and replay.</p>
-      <a href="https://www.crazygames.com/game/sticky-orbit">▶ Play on CrazyGames</a>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>👻 <a href="https://github.com/CharoenwitKunna/Specter">Specter</a></strong></p>
-      <p>Ghost-cursor browser automation for AI agents, powered by a Chrome extension and MCP server.</p>
-    </td>
-  </tr>
-</table>
+- **[typeflow](https://github.com/CharoenwitKunna/typeflow)**  
+  Minimalist typing speed & rhythm trainer built in TypeScript.
 
-<details>
-<summary><strong>More projects</strong> (click to open)</summary>
-<br>
+---
 
-- 🧠 [flashmaths](https://github.com/CharoenwitKunna/flashmaths): speed-focused math practice
-- ✍️ [typeflow](https://github.com/CharoenwitKunna/typeflow): a typing flow app in TypeScript
-- 📺 [youtube_title_editer](https://github.com/CharoenwitKunna/youtube_title_editer): automatic YouTube title updates
-- 🛡️ [ai-act-starter](https://github.com/CharoenwitKunna/ai-act-starter): an EU AI Act compliance starter
-- 🛰️ [DrednotServer_Econ](https://github.com/CharoenwitKunna/DrednotServer_Econ): an economy layer for game servers
+### Focus & Stack
 
-</details>
-
-## Tools I use
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-## GitHub activity
-
-![GitHub activity summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CharoenwitKunna&theme=github_dark)
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CharoenwitKunna&theme=github_dark)
-![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CharoenwitKunna&theme=github_dark)
-
-<details>
-<summary><strong>What I'm working on</strong></summary>
-<br>
-
-- Game prototypes that are quick to learn and fun to replay
-- Small services that run without a huge stack
-- Better ways to make automation feel natural to use
-
-</details>
-
-## Get in touch
-
-Have a browser game idea, an automation problem, or a systems challenge? [Open an issue](https://github.com/CharoenwitKunna/CharoenwitKunna/issues) or [connect on LinkedIn](https://www.linkedin.com/in/charoenwitkunna).
-
-<div align="center">
-
-*I’m usually building something, testing something, or learning how to make it better.* ✨
-
-</div>
+- **Systems & Backends:** Go, Node.js, Python, WebSocket / UDP networking
+- **Frontend & Agents:** TypeScript, Chrome Extensions, Model Context Protocol (MCP)
+- **Engines:** Godot Engine, HTML5 Canvas
